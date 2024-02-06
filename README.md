@@ -1,5 +1,5 @@
-# OF-DL
-Scrape all the media from an OnlyFans account
+# Onlyfans downloader
+Scrape and download all the media from an OnlyFans account
 
 # Prerequisites
 Video Tutorial - https://gofile.io/d/cqCc2m
